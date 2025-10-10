@@ -1,0 +1,116 @@
+{
+  "gallery": [
+    {
+      "data": "April 16th 2020",
+      "title": "The Mountains",
+      "author": "by John Appleseed",
+      "button": "READ STORY",
+      "img": "../images/img/mountains.png"
+    },
+    {
+      "data": "April 14th 2020",
+      "title": "Sunset Cityscapes",
+      "author": "by Benjamin Cruz",
+      "button": "READ STORY",
+      "img": "../images/img/city.png"
+    },
+    {
+      "data": "April 11th 2020",
+      "title": "18 Days Voyage",
+      "author": "by Alexei Borodin",
+      "button": "READ STORY",
+      "img": "../images/img/traveling-man.png"
+    },
+    {
+      "data": "April 9th 2020",
+      "title": "Architecturals",
+      "author": "by Samantha Brooke",
+      "button": "READ STORY",
+      "img": "../images/img/mountains.png"
+    },
+    {
+      "data": "April 7th 2020",
+      "title": "World Tour 2019",
+      "author": "by Timothy Wagner",
+      "button": "READ STORY",
+      "img": "../images/img/mountains-lakes.png"
+    },
+    {
+      "data": "April 3rd 2020",
+      "title": "Unforeseen Corners",
+      "author": "by William Malcolm",
+      "button": "READ STORY",
+      "img": "../images/img/tree-red-clouds.png"
+    },
+    {
+      "data": "March 29th 2020",
+      "title": "King on Africa: Part II",
+      "author": "by Tim Hillenburg",
+      "button": "READ STORY",
+      "img": "../images/img/lion.png"
+    },
+    {
+      "data": "March 21st 2020",
+      "title": "The Trip to Nowhere",
+      "author": "by Felicia Rourke",
+      "button": "READ STORY",
+      "img": "../images/img/tree-lake.png"
+    },
+    {
+      "data": "March 19th 2020",
+      "title": "Rage of The Sea",
+      "author": "by Mohammed Abdul",
+      "button": "READ STORY",
+      "img": "../images/img/waves-sunset.png"
+    },
+    {
+      "data": "March 16th 2020",
+      "title": "Running Free",
+      "author": "by Michelle",
+      "button": "READ STORY",
+      "img": "../images/img/horses.png"
+    },
+    {
+      "data": "March 11th 2020",
+      "title": "Behind the Waves",
+      "author": "by Lamarr Wilson",
+      "button": "READ STORY",
+      "img": "../images/img/wave.png"
+    },
+    {
+      "data": "March 9th 2020",
+      "title": "Calm Waters",
+      "author": "by Samantha Brooke",
+      "button": "READ STORY",
+      "img": "../images/img/mountains-red-sky.png"
+    },
+    {
+      "data": "March 5th 2020",
+      "title": "The Milky Way",
+      "author": "by Benjamin Cruz",
+      "button": "READ STORY",
+      "img": "../images/img/starry-sky.png"
+    },
+    {
+      "data": "March 4th 2020",
+      "title": "Night at The Dark Forest",
+      "author": "by  Mohammed Abdul",
+      "button": "READ STORY",
+      "img": "../images/img/mountains.png"
+    },
+    {
+      "data": "March 1st 2020",
+      "title": "Somwarpet’s Beauty",
+      "author": "by Michelle",
+      "button": "READ STORY",
+      "img": "../images/img/yellow-flowers.png"
+    },
+    {
+      "data": "February 25th 2020",
+      "title": "Land of Dreams",
+      "author": "by William Malcolm",
+      "button": "READ STORY",
+      "img": "../images/img/church-mountains.png"
+    }
+  ]
+}
