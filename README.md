@@ -1,38 +1,37 @@
 # 📸 PHOTOSNAP
 
-Багатосторінковий адаптивний сайт, створений з використанням HTML, CSS та JavaScript. Реалізовано модульну структуру, інтерактивні компоненти та асинхронну логіку.
+A multi‑page responsive website built with HTML, CSS, and JavaScript.
+It includes modular structure, interactive components, and asynchronous logic.
 
-## ⚙️ Технології
+## ⚙️ Technologies
 
-- **HTML5** — семантична розмітка, багатосторінкова структура
-- **CSS3** — адаптивна верстка з використанням `flex`, `grid`, `position`, `table`, `clamp()`, `media queries`
-- **JavaScript** — логіка навігації, вставка компонентів, асинхронні запити
+- HTML5 — semantic markup, multi‑page structure
+- CSS3 — responsive layout using flex, grid, position, table, clamp(), media queries
+- JavaScript — navigation logic, component insertion, asynchronous requests
 
+## 🔧 Implemented
 
-## 🔧 Реалізовано
+- 🔄 Multi‑page navigation — each page has its own HTML structure
+- 🍔 Burger menu — built with JavaScript for mobile devices
+- 💰 Price toggle — interactive switch between monthly and yearly payment
+- 🧩 Header, Footer, and reusable blocks — separated into HTML files and dynamically added via JavaScript
+- 🖼️ Gallery — content loaded from a separate gallery.json file
+- 🔄 Fetch requests — for loading components and data
+- ⏳ Asynchronous logic — using async/await for smooth performance
+- 📱 Responsive layout — designed for mobile, tablets, and desktops
+- 📊 Tables and custom elements — styled and adapted for different screens
 
-- 🔄 **Багатосторінкова навігація** — кожна сторінка має окрему HTML-структуру
-- 🍔 **Бургер-меню** — реалізовано на JavaScript для мобільних пристроїв
-- 💰 **Перемикач ціни** — інтерактивний toggle між місячною та річною оплатою
-- 🧩 **Header, Footer та повторювані блоки** — винесені в окремі HTML-файли, динамічно додаються через js
-- 🖼️ **Галерея** — контент завантажується з окремого `gallery.json` файлу
-- 🔄 **Fetch-запити** — для завантаження компонентів та даних
-- ⏳ **Асинхронність** — використано `async/await` для плавної роботи
-- 📱 **Адаптивна верстка** — продумана для мобільних, планшетів і десктопів
-- 📊 **Таблиці та нестандартні елементи** — стилізовані та адаптовані для різних екранів
-- 
-## 🎥 Візуальна демонстрація
+## 🎥 Visual Demo
 
 ![Demo](assets/PHOTOSNUB.gif)
 
-## 📱 Адаптивність
+## 📱 Responsiveness
 
-Сайт коректно відображається на:
+The website displays correctly on:
+- 📱 Mobile devices
+- 💻 Tablets
+- 🖥️ Desktops
 
-- 📱 Мобільних пристроях
-- 💻 Планшетах
-- 🖥️ Десктопах
+## 🚀 How to Run
 
-## 🚀 Запуск
-
-1. Завантаж та відкрий index.html
+- Download and open index.html
